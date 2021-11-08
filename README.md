@@ -4,3 +4,6 @@
 >>* https://fontawesome.com sitesi üzerinde iconlar için üyelik oluşturun.
 > gmail'e gelen kodu kontrol edin.
 >>* https://fontawesome.com/v5.15/icons?d=gallery&p=2&q=menu sitesinde almak istediğimiz iconun html kodunu kopyalamasını yapabiliriz.
+
+>## Universtiy Website Tanıtım Videosu
+>[![Watch the video](https://i.hizliresim.com/3yfanyf.jpg)](https://www.youtube.com/watch?v=tyqzgYkcLAI)
