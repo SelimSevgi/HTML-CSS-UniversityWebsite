@@ -7,4 +7,4 @@
 
 >## University Website Tanıtım Videosu
 >[![Watch the video](https://i.hizliresim.com/3yfanyf.jpg)](https://www.youtube.com/watch?v=tyqzgYkcLAI)
->https://www.youtube.com/watch?v=tyqzgYkcLAI
+
